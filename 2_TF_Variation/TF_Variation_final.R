@@ -1,8 +1,4 @@
 #### This script is to combine various TF explanatory figures together ####
-## Genome Biology Figures ##
-# width of 85 mm (3.34") for half page width figure
-#width of 170 mm (6.69") for full page width figure
-# maximum height of 225 mm (8.85") for figure and legend
 
 library(cowplot)
 library(tidyverse)
